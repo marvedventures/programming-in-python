@@ -1,11 +1,11 @@
 # Python Programming
 
-## PYTHON FUNDAMENTALS 1
+## Python Fundamentals 1
 
     - Python Syntax
 
-## PYTHON FUNDAMENTALS 2
+## Python Fundamentals 2
 
-## PYTHON PROGRAMMING PARADIGMS
+## Python Programming Paradigms
 
-## MODULES, PACKAGES, LIBRARIES AND TOOLS IN PYTHON
+## Modules, Packagaes, Libraries and Tools in Python
