@@ -3,6 +3,7 @@
 ## Python Fundamentals 1
 
     • Python Syntax
+    • Python Variables
 
 ## Python Fundamentals 2
 
