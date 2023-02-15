@@ -2,7 +2,7 @@
 
 ## Python Fundamentals 1
 
-    - Python Syntax
+    • Python Syntax
 
 ## Python Fundamentals 2
 
