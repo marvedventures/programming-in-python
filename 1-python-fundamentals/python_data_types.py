@@ -55,6 +55,7 @@ print(type(my_bool))  # <class 'bool'>
 # 5. SET
 # - unordered, unchangeable*, and unindexed, unique values.
 # - Set items are unchangeable, but you can remove items and add new items.
+# - the set list is unordered, meaning: the items will appear in a random order.
 my_set = {'apple', 'banana', 'corn'}
 
 print(type(my_set))  # <class 'set'>
