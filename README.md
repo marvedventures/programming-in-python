@@ -19,6 +19,8 @@
 - [Python Switch Statement (match)](https://github.com/marvedventures/programming-in-python/blob/master/1-python-fundamentals/control-flow-and-conditionals/python_match.py)
 - [Python Loop Statements (for and while)](https://github.com/marvedventures/programming-in-python/blob/master/1-python-fundamentals/control-flow-and-conditionals/python_loops.py)
 - [Practicing Control Flow and Loops](https://github.com/marvedventures/programming-in-python/blob/master/1-python-fundamentals/control-flow-and-conditionals/practice_loops_and_control_flow.py)
+- [Nested Loops and the Effect on Time Complexity](https://github.com/marvedventures/programming-in-python/blob/master/1-python-fundamentals/control-flow-and-conditionals/python_loop_complexity.py)
+- [Use control flow and loops to solve a problem](https://github.com/marvedventures/programming-in-python/blob/master/1-python-fundamentals/control-flow-and-conditionals/ex_control_flow_and_loops.py)
 
 ## Python Fundamentals 2
 
