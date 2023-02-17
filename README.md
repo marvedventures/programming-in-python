@@ -14,6 +14,9 @@
 
 #### Control Flow and Conditionals
 
+- [Python Operators](https://github.com/marvedventures/programming-in-python/blob/master/1-python-fundamentals/control-flow-and-conditionals/python_operators.py)
+- [Python Control Flow](https://github.com/marvedventures/programming-in-python/blob/master/1-python-fundamentals/control-flow-and-conditionals/python_control_flow.py)
+
 ## Python Fundamentals 2
 
 ## Python Programming Paradigms
