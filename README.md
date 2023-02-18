@@ -24,6 +24,12 @@
 
 ## Python Fundamentals 2
 
+#### Functions and Data Structures
+
+- [Python Functions](https://github.com/marvedventures/programming-in-python/blob/master/2-python-fundamentals/functions-and-data-structures/python_functions.py)
+
+#### Errors, exceptions and file handling
+
 ## Python Programming Paradigms
 
 ## Modules, Packagaes, Libraries and Tools in Python
