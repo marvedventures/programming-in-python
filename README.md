@@ -28,6 +28,11 @@
 
 - [Python Functions](https://github.com/marvedventures/programming-in-python/blob/master/2-python-fundamentals/functions-and-data-structures/python_functions.py)
 - [Python Scopes](https://github.com/marvedventures/programming-in-python/blob/master/2-python-fundamentals/functions-and-data-structures/python_scope.py)
+- [Python Data Structures](https://github.com/marvedventures/programming-in-python/blob/master/2-python-fundamentals/functions-and-data-structures/python_ds.py)
+- [Python List](https://github.com/marvedventures/programming-in-python/blob/master/2-python-fundamentals/functions-and-data-structures/python_list.py)
+- [Python Tuple](https://github.com/marvedventures/programming-in-python/blob/master/2-python-fundamentals/functions-and-data-structures/python_tuple.py)
+- [Python Set](https://github.com/marvedventures/programming-in-python/blob/master/2-python-fundamentals/functions-and-data-structures/python_set.py)
+- [Python Dictionary](https://github.com/marvedventures/programming-in-python/blob/master/2-python-fundamentals/functions-and-data-structures/python_dictionary.py)
 
 #### Errors, exceptions and file handling
 
