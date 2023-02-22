@@ -40,6 +40,7 @@
 #### Errors, exceptions and file handling
 
 - [Python Exceptions](https://github.com/marvedventures/programming-in-python/blob/master/2-python-fundamentals/errors-exceptions-and-file-handling/python_exceptions.py)
+- [Python File Handling](https://github.com/marvedventures/programming-in-python/blob/master/2-python-fundamentals/errors-exceptions-and-file-handling/python_file_handling.py)
 
 ## Python Programming Paradigms
 
