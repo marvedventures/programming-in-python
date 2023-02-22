@@ -12,6 +12,7 @@ f_content_list = f_content.split('\n')
 print(f_content_list)
 # OUTPUT:
 # ['Ace', 'Atlas', 'Bailey', 'Bear', 'Blaze', 'Boomer', 'Buddy', 'Coco', 'Cooper', 'Duke', 'Dozer', 'Echo', 'Gizmo', 'Harley', 'Mac', 'Max', 'Milo', 'Oscar', 'Rex', 'Rocky', 'Rocket', 'Wolfie']
+# removed /n
 
 # random.choice() accepts a sequence params
 print(random.choice(f_content_list))

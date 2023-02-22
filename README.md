@@ -44,6 +44,7 @@
 - [Creating Files in Python](https://github.com/marvedventures/programming-in-python/blob/master/2-python-fundamentals/errors-exceptions-and-file-handling/python_create_file.py)
 - [Reading Files in Python](https://github.com/marvedventures/programming-in-python/blob/master/2-python-fundamentals/errors-exceptions-and-file-handling/python_read_file.py)
 - [Storing File Contents in Data Structures](https://github.com/marvedventures/programming-in-python/blob/master/2-python-fundamentals/errors-exceptions-and-file-handling/python_read_file.py)
+- [Read in Data, Store, Manipulate and Output new data to a file](https://github.com/marvedventures/programming-in-python/blob/master/2-python-fundamentals/errors-exceptions-and-file-handling/read_store_manipulate_output.py)
 
 ## Python Programming Paradigms
 
