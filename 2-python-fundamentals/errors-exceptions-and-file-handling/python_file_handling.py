@@ -15,8 +15,8 @@
 # 'r+' -> open for reading and writing (text)
 # 'rb+' -> open for reading and writing (binary)
 
-# 'w' -> open for writing (text), will overrite the existing file
-# 'wb' -> open for writing (binary), will overrite the existing file
+# 'w' -> open for writing (text), will overwrite the existing file
+# 'wb' -> open for writing (binary), will overwrite the existing file
 
 # 'a' -> open for editing, appending data
 
@@ -33,6 +33,7 @@
 # with open ('testing.txt', 'r') as file:
 # no close functions needed ; automatically closed
 # better for exception handling
+# can also loop through the file and print the text line by line:
 
 ###########################################################################################################################################
 
@@ -53,6 +54,9 @@ print(data)
 print(data1)
 
 file.close()
+
+# if a method is called after a closefile
+# data1 = file.readlines() # ValueError: I/O operation on closed file.
 
 ###########################################################################################################################################
 
