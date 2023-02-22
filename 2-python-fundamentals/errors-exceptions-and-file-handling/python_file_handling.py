@@ -7,7 +7,7 @@
 # open(<file name> <file location>, <mode>)
 # mode - action: reading/writing/creating ; output format: text/binary
 
-# Mode sets -> text is the default output format
+# Mode sets -> reading is the default action and text is the default output format
 
 # 'r' -> open for reading (text)
 # 'rb' ->  open for reading (binary)
