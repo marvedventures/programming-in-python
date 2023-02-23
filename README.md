@@ -1,8 +1,8 @@
-#############################################
+##########################################################################################
 
 # PROGRAMMING IN PYTHON
 
-#############################################
+##########################################################################################
 
 ## Python Fundamentals 1
 
@@ -26,7 +26,7 @@
 - [Nested Loops and the Effect on Time Complexity](https://github.com/marvedventures/programming-in-python/blob/master/1-python-fundamentals/control-flow-and-conditionals/python_loop_complexity.py)
 - [Use control flow and loops to solve a problem](https://github.com/marvedventures/programming-in-python/blob/master/1-python-fundamentals/control-flow-and-conditionals/ex_control_flow_and_loops.py)
 
-#############################################################
+##########################################################################################
 
 ## Python Fundamentals 2
 
@@ -52,7 +52,7 @@
 - [Storing File Contents in Data Structures](https://github.com/marvedventures/programming-in-python/blob/master/2-python-fundamentals/errors-exceptions-and-file-handling/python_read_file.py)
 - [Read in Data, Store, Manipulate and Output new data to a file](https://github.com/marvedventures/programming-in-python/blob/master/2-python-fundamentals/errors-exceptions-and-file-handling/read_store_manipulate_output.py)
 
-#############################################################
+##########################################################################################
 
 ## Python Programming Paradigms
 
@@ -65,6 +65,6 @@
 
 ### Object Oriented Programming
 
-#############################################################
+##########################################################################################
 
 ## Modules, Packagaes, Libraries and Tools in Python
