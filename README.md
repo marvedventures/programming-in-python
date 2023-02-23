@@ -1,4 +1,8 @@
-# Python Programming
+#############################################
+
+# PROGRAMMING IN PYTHON
+
+#############################################
 
 ## Python Fundamentals 1
 
@@ -21,6 +25,8 @@
 - [Practicing Control Flow and Loops](https://github.com/marvedventures/programming-in-python/blob/master/1-python-fundamentals/control-flow-and-conditionals/practice_loops_and_control_flow.py)
 - [Nested Loops and the Effect on Time Complexity](https://github.com/marvedventures/programming-in-python/blob/master/1-python-fundamentals/control-flow-and-conditionals/python_loop_complexity.py)
 - [Use control flow and loops to solve a problem](https://github.com/marvedventures/programming-in-python/blob/master/1-python-fundamentals/control-flow-and-conditionals/ex_control_flow_and_loops.py)
+
+#############################################################
 
 ## Python Fundamentals 2
 
@@ -46,6 +52,19 @@
 - [Storing File Contents in Data Structures](https://github.com/marvedventures/programming-in-python/blob/master/2-python-fundamentals/errors-exceptions-and-file-handling/python_read_file.py)
 - [Read in Data, Store, Manipulate and Output new data to a file](https://github.com/marvedventures/programming-in-python/blob/master/2-python-fundamentals/errors-exceptions-and-file-handling/read_store_manipulate_output.py)
 
+#############################################################
+
 ## Python Programming Paradigms
+
+### Procedural Programming
+
+- [What is Procedural Programming?](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/procedural-programming/python_procedural.py)
+- [Algorithms](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/procedural-programming/python_algorithms.py)
+
+### Functional Programming
+
+### Object Oriented Programming
+
+#############################################################
 
 ## Modules, Packagaes, Libraries and Tools in Python
