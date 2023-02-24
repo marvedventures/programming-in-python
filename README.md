@@ -63,6 +63,9 @@
 
 ### Functional Programming
 
+- [What is Functional Programming?](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/functional-programming/python_functional.py)
+- [Pure Functions](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/functional-programming/python_pure_functions.py)
+
 ### Object Oriented Programming
 
 #######################################################################################
