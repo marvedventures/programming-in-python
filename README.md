@@ -66,6 +66,7 @@
 - [What is Functional Programming?](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/functional-programming/python_functional.py)
 - [Pure Functions](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/functional-programming/python_pure_functions.py)
 - [Recursion](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/functional-programming/python_recursion.py)
+- [Reversing a string on Python](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/functional-programming/python_string_reversal.py)
 
 ### Object Oriented Programming
 
