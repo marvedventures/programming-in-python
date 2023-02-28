@@ -66,8 +66,10 @@
 - [What is Functional Programming?](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/functional-programming/python_functional.py)
 - [Pure Functions](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/functional-programming/python_pure_functions.py)
 - [Recursion](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/functional-programming/python_recursion.py)
-- [Reversing a string on Python](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/functional-programming/python_string_reversal.py)
+- [Reversing a string in Python](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/functional-programming/python_string_reversal.py)
 - [Map and Filter in Python](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/functional-programming/python_map_filter.py)
+- [Comprehensions](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/functional-programming/python_coprehension.py)
+- [Employee Login Account and Username Creation](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/functional-programming/python_employee_management.py)
 
 ### Object Oriented Programming
 
