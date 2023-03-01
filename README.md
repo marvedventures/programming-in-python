@@ -74,5 +74,6 @@
 ### Object Oriented Programming
 
 - [What is Object Oriented Programming?](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_oop.py)
+- [Python Classes and Instances](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_classes.py)
 
 ## Modules, Packagaes, Libraries and Tools in Python
