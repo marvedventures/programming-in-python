@@ -2,7 +2,7 @@
 # PYTHON INSTANCE METHODS
 ###########################################################################################################################################
 
-# -> changes made in an instance object affect only that instance.; polymorphism(can have many forms)
+# -> changes made in an instance object affect only that instance.
 
 ###########################################################################################################################################
 
@@ -19,21 +19,21 @@ class Payslip:
 
     def status(self):
         if self.payment == 'yes':
-            print(f'{self.name} has paid {self.amount}.')
+            return f'{self.name} has paid {self.amount}.'
         else:
-            print(f'{self.name} is not paid yet.')
+            return f'{self.name} is not paid yet.'
 
 
 roger = Payslip('Roger', 'no', 1000)
 nathan = Payslip('Nathan', 'no', 2000)
 
-roger.status()  # Roger is not paid yet.
-nathan.status()  # Nathan is not paid yet.
+print(roger.status())  # Roger is not paid yet.
+print(nathan.status())  # Nathan is not paid yet.
 
 
 # Roger makes payment (only roger object/instance will change)
 roger.pay()
-roger.status()  # Roger has paid 1000.
-nathan.status()  # Nathan is not paid yet.
+print(roger.status())  # Roger has paid 1000.
+print(nathan.status())  # Nathan is not paid yet.
 
 ###########################################################################################################################################
