@@ -2,10 +2,11 @@
 # PYTHON CUSTOM OBJECT
 ###########################################################################################################################################
 
-# 2 SPECIAL METHODS USED DURING OBJECT CREATION
+# 3 SPECIAL METHODS USED DURING OBJECT CREATION
 
 # 1. __new__ : responsible for creating and returning a new empty object
 # 2. __init__: responsible for initializing the object's state (constructor)
+# 3. __str__: responsible for returning the class object as a string
 
 class MyClass:
     # cls is not a keyword but only a convention that acts as placeholder
@@ -14,13 +15,14 @@ class MyClass:
         instance = super().__new__(cls)
         return instance
 
-    # self is 'this' keyword in other programming languages
+    # __init__ (constructor); self is 'this' keyword in other programming languages
     def __init__(self, name):
         print('Initializing object')
         self.name = name
 
 
 my_object = MyClass('Alice')
+print(my_object)  # <__main__.MyClass object at 0x000001E93D5C5810>
 
 '''
 OUTPUT: 
@@ -77,3 +79,33 @@ whodunnit = MyFirstClass()
 whodunnit.hand_list('Sun Tzu', 'The Art of War')
 
 ###########################################################################################################################################
+
+# __str__ () -> the class object will be returned as a string
+
+
+#  w/o __str__() : string representation of the object is returned
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+
+p1 = Person('John', 36)
+
+print(p1)  # <__main__.Person object at 0x000002768D63A0D0>
+
+
+# w/ __str__() : class object will be returned as a string
+
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+    def __str__(self):
+        return f'{self.name}({self.age})'
+
+
+p1 = Person('John', 36)
+
+print(p1)  # John(36)
