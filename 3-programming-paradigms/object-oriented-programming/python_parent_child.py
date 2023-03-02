@@ -20,7 +20,7 @@ class Employee:
         self.last = last
 
 
-# if child will add a new attribute(variable), call init then inside it call super() first
+# if child will add a new attribute(variable), call init then inside it call super() first (to access first, and last variable in parent)
 class Supervisors(Employee):
     def __init__(self, first, last, password) -> None:
         super().__init__(first, last)
@@ -37,8 +37,9 @@ adrian = Supervisors('Adrian', 'J', 'apple')
 emily = Chefs('Emily', 'E')
 joanna = Chefs('Joanna', 'J')
 
-print(emily.leave_request(3))  # May I take the leave for 3 days
 print(adrian.password)  # apple
+print(adrian.first)  # Adrian
+print(emily.leave_request(3))  # May I take the leave for 3 days
 print(joanna.first)  # Joanna
 
 ###########################################################################################################################################

@@ -78,5 +78,6 @@
 - [Instantiate a Custom Object](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_custom_object.py)
 - [Instance Methods](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_instance_methods.py)
 - [Parent classes vs. child classes](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_parent_child.py)
+- [Inheritance and Multiple Inheritance](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_multi_level.py)
 
 ## Modules, Packagaes, Libraries and Tools in Python
