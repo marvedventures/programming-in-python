@@ -76,5 +76,6 @@
 - [What is Object Oriented Programming?](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_oop.py)
 - [Python Classes and Instances](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_classes.py)
 - [Instantiate a Custom Object](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_custom_object.py)
+- [Instance Methods](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_instance_methods.py)
 
 ## Modules, Packagaes, Libraries and Tools in Python
