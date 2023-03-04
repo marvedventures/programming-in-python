@@ -37,10 +37,9 @@ class Swiss(Bank):
             self.bal -= amount
             print(f'Withdrawn amount: {amount}')
             print(f'New balance: {self.bal}')
-            return self.bal
         else:
             print('Insufficient funds')
-            return self.bal
+        return self.bal
 
     def deposit(self, amount):
         self.bal += amount
