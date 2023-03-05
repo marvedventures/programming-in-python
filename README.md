@@ -105,5 +105,9 @@
 - [NumPy](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/packages-libraries-frameworks/python_numpy.py)
 - [Pandas](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/packages-libraries-frameworks/python_pandas.py)
 - [NLTK](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/packages-libraries-frameworks/python_nltk.py)
+- [Data Analysis Packages](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/packages-libraries-frameworks/python_data_analysis.py)
+- [Machine learning, deep learning and AI: PyTorch, TensorFlow](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/packages-libraries-frameworks/python_ml_dl_ai.py)
+- [Big Data and Analysis with Python](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/packages-libraries-frameworks/python_big_data.py)
+- [Python Web Frameworks](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/packages-libraries-frameworks/python_web_frameworks.py)
 
 ### Testing Tools
