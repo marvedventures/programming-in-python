@@ -37,3 +37,9 @@
 # 2. Modules in the current working directory of the project
 
 ###########################################################################################################################################
+
+# Default location of Python interpreter to search for modules
+
+# -> any user-specified location added to the System path using sys package
+
+###########################################################################################################################################
