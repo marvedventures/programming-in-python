@@ -82,5 +82,7 @@
 - [Classes and object exploration](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_class_explore.py)
 - [Abstract Classes and Methods](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_abstract_class.py)
 - [Python Bank App](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_bank_app.py)
+- [Method Resolution Order](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_mro.py)
+- [MRO Examples](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_mro_ex.py)
 
 ## Modules, Packagaes, Libraries and Tools in Python
