@@ -12,14 +12,17 @@
 
 # 1. import
 
+from math import *
+from math import sqrt as square_root
+import math as m
+from math import sqrt
 import math
 print(math.sqrt(9))
 
 ###########################################################################################################################################
 
-# 2. from module import ...
+# 2. from package import module ...
 
-from math import sqrt
 
 print(sqrt(9))
 
@@ -28,18 +31,15 @@ print(sqrt(9))
 
 # 3. as
 
-import math as m
 print(m.sqrt(9))
 
 
-from math import sqrt as square_root
 print(square_root(9))
 
 ###########################################################################################################################################
 
 # 4. star * : import all
 
-from math import *
 
 print(sqrt(9))
 
