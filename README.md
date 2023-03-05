@@ -85,4 +85,18 @@
 - [Method Resolution Order](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_mro.py)
 - [MRO Examples](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_mro_ex.py)
 
-## Modules, Packagaes, Libraries and Tools in Python
+#######################################################################################
+
+## Modules, Packages, Libraries and Tools in Python
+
+- [What is a Module in Python?](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/modules/python_modules.py)
+- [Accessing Modules](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/modules/python_access_modules.py)
+- [Writing Import Statement](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/modules/python_import.py)
+- [Namespacing and Scoping](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/modules/python_namespace_scope.py)
+- [JSON Generator](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/modules/json-generator/json_generator.py)
+
+### Modules
+
+### Popular Packages, Libraries and Frameworks
+
+### Testing Tools
