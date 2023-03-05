@@ -101,4 +101,9 @@
 
 ### Popular Packages, Libraries and Frameworks
 
+- [Popular Packages: NumPy, pandas, Matplotlib, etc](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/packages-libraries-frameworks/python_packages.py)
+- [NumPy](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/packages-libraries-frameworks/python_numpy.py)
+- [Pandas](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/packages-libraries-frameworks/python_pandas.py)
+- [NLTK](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/packages-libraries-frameworks/python_nltk.py)
+
 ### Testing Tools
