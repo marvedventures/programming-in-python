@@ -30,3 +30,10 @@
 # 2. execution -> once imported, can be executed
 
 ###########################################################################################################################################
+
+#  Module types that are directly available for import without any additional installation
+
+# 1. Built-in Modules
+# 2. Modules in the current working directory of the project
+
+###########################################################################################################################################

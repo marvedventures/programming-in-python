@@ -2,9 +2,12 @@
 # WRITING IMPORT STATEMENTS
 ###########################################################################################################################################
 
+#  -> can import any files that have .py (not .txt, etc)
+
 # DIFFERENT METHODS TO IMPORT
 
 # NOTE: ALL WILL OUPUT THE SAME THING: 3.0
+
 ###########################################################################################################################################
 
 # 1. import
@@ -25,8 +28,11 @@ print(sqrt(9))
 
 # 3. as
 
-from math import sqrt as square_root
+import math as m
+print(m.sqrt(9))
 
+
+from math import sqrt as square_root
 print(square_root(9))
 
 ###########################################################################################################################################
