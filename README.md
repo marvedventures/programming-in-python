@@ -96,7 +96,8 @@
 - [Writing Import Statement](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/modules/python_import.py)
 - [Namespacing and Scoping](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/modules/python_namespace_scope.py)
 - [JSON Generator](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/modules/json-generator)
-- [reload() function](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/modules/python-reload)
+- [reload() function](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/modules/python_reload.py)
+- [Print Contents in a Directory](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/modules/python-reload)
 
 ### Popular Packages, Libraries and Frameworks
 
