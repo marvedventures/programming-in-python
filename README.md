@@ -89,13 +89,14 @@
 
 ## Modules, Packages, Libraries and Tools in Python
 
+### Modules
+
 - [What is a Module in Python?](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/modules/python_modules.py)
 - [Accessing Modules](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/modules/python_access_modules.py)
 - [Writing Import Statement](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/modules/python_import.py)
 - [Namespacing and Scoping](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/modules/python_namespace_scope.py)
 - [JSON Generator](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/modules/json-generator)
-
-### Modules
+- [reload() function](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/modules/python-reload)
 
 ### Popular Packages, Libraries and Frameworks
 
