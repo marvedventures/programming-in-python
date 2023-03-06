@@ -115,4 +115,5 @@
 - [What is Testing?](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/testing-tools/python_testing.py)
 - [Types of Testing](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/testing-tools/python_testing_types.py)
 - [Test automation packages](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/testing-tools/python_test_packages.py)
-- [Writing Tests with PyTest](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/testing-tools/pytest-demo)
+- [PyTest Demo and Cheatsheet](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/testing-tools/pytest-demo)
+- [Writing Tests with PyTest](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/testing-tools/write-a-test)
