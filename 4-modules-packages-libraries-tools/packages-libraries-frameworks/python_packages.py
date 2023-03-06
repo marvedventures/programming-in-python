@@ -20,8 +20,10 @@
 # 4. Pandas
 
 # Image processing and data visualization:
-# 1. open CV
-# 2. matplotlib
+# 1. Open CV
+# 2. Matplotlib
+# 3. Seaborn
+
 
 # ML and AI:
 # 1. TensorFlow -> ML
