@@ -111,3 +111,8 @@
 - [Python Web Frameworks](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/packages-libraries-frameworks/python_web_frameworks.py)
 
 ### Testing Tools
+
+- [What is Testing?](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/testing-tools/python_testing.py)
+- [Types of Testing](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/testing-tools/python_testing_types.py)
+- [Test automation packages](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/testing-tools/python_test_packages.py)
+- [Writing Tests with PyTest](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/testing-tools/pytest-demo)
