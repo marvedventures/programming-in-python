@@ -117,3 +117,5 @@
 - [Test automation packages](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/testing-tools/python_test_packages.py)
 - [PyTest Demo and Cheatsheet](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/testing-tools/pytest-demo)
 - [Writing Tests with PyTest](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/testing-tools/write-a-test)
+- [Test-driven development (TDD)](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/testing-tools/python_tdd.py)
+- [Applying TDD](https://github.com/marvedventures/programming-in-python/blob/master/4-modules-packages-libraries-tools/testing-tools/tdd-demo)
