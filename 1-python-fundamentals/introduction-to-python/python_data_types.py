@@ -16,6 +16,10 @@ print(type(my_float))  # <class 'float'>
 my_complex_number = 10 + 10j
 print(type(my_complex_number))  # <class 'complex'>
 
+x = 1j
+print(type(x))  # <class 'complex'>
+print(x**2 == -1)  # True
+
 ###########################################################################################################################################
 
 # 2. SEQUENCE
