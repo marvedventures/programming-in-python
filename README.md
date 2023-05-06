@@ -78,7 +78,7 @@
 - [Instantiate a Custom Object](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_custom_object.py)
 - [Instance Methods](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_instance_methods.py)
 - [Parent classes vs. child classes](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_parent_child.py)
-- [Inheritance and Multiple Inheritance](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_multi_level.py)
+- [Inheritance and Multiple Inheritance](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_multi_inheritance.py)
 - [Classes and object exploration](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_class_explore.py)
 - [Abstract Classes and Methods](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_abstract_class.py)
 - [Python Bank App](https://github.com/marvedventures/programming-in-python/blob/master/3-programming-paradigms/object-oriented-programming/python_bank_app.py)
